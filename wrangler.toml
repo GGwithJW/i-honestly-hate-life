@@ -1,6 +1,6 @@
-name = "streaming-proxy"
+name = "octo-prism"
 main = "worker.js"
-compatibility_date = "2024-01-01"
+compatibility_date = "2026-01-01"
 
 # Environment variables
 [vars]
